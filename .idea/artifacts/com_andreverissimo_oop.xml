@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.andreverissimo.oop">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_andreverissimo_oop</output-path>
+    <root id="archive" name="com.andreverissimo.oop.jar">
+      <element id="module-source" name="com.andreverissimo.oop" />
+      <element id="module-output" name="com.andreverissimo.oop" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
